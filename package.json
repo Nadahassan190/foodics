@@ -1,0 +1,11 @@
+{
+  "name": "hotfix_final",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cucumber": "^6.0.7",
+    "selenium-webdriver": "^4.8.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^9.0.0"
+  }
+}
